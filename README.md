@@ -1,6 +1,6 @@
-<center>
-  <img src="https://dirigentesdigital.com/multimedia/img/big/desarrollosoftware_41-116547_20190111134203.jpg"  alt="img not found"/></center>
-
+<p align= "center">
+  <img src="https://dirigentesdigital.com/multimedia/img/big/desarrollosoftware_41-116547_20190111134203.jpg" alt="img not found"/>
+</p>
 <h1 align="center">Hola 👋, me llamo Matías</h1>
 <h3 align="center">Soy Full Stack Web Developer</h3>
 
