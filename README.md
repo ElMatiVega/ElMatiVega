@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mat%c3%adas-vega-98a527239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Matías Vega-blue?style=flat&logo=linkedin"></a>
+<!--   <a href="https://linkedin.com/in/https://www.linkedin.com/in/mat%c3%adas-vega-98a527239/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Matías Vega-blue?style=flat&logo=linkedin"></a> -->
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/)
   <a href="mailto:mvfullstackdeveloper@gmail.com" style:><img alt="Email" src="https://img.shields.io/badge/Email-mvfullstackdeveloper@gmail.com-blue?style=flat&logo=gmail"></a>
  </p>
  
