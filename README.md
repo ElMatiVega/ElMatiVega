@@ -1,6 +1,4 @@
-<!-- <p align= "center">
-  <img src="https://dirigentesdigital.com/multimedia/img/big/desarrollosoftware_41-116547_20190111134203.jpg" alt="img not found"/>
-</p> -->
+
 <p align= "center">
   <img src="https://oe-content-production.s3.amazonaws.com/content_generator_v2/86/61315/799319.jpg" alt="img not found"/>
 </p>
