@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-vega-98a527239/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mat%C3%ADas-vega-dev/)
   
   <a href="mailto:mvfullstackdeveloper@gmail.com" style:><img alt="Email" src="https://img.shields.io/badge/Email-mvfullstackdeveloper@gmail.com-blue?style=flat&logo=gmail"></a>
  </p>
