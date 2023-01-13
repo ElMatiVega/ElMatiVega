@@ -22,3 +22,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elmativega&show_icons=true&locale=en&layout=compact" alt="elmativega" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elmativega&show_icons=true&locale=en" alt="elmativega" /></p>
+
+<h2 align="left">📌Mis Proyectos:</h2>
+
+<h3 align="left"> <a href="https://henryhealthy.shop/" target="_blank">E-commerce Healthy Food:</a></h3>
+
+<p align= "center">
+  <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="700"/>
+  <img src="https://user-images.githubusercontent.com/102552376/203137811-8bb9cb16-9d95-49f3-899c-37cfce5b9618.jpg" alt="img not found" width="700"/>
+</p>
