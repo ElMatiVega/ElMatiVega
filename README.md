@@ -65,10 +65,10 @@
 <h3 align="left" > Urban Mobility:</h3>
 
 <p align= "center">
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9f0fdaab-ef16-4dee-811a-1d10ab4441f5" alt="img not found" width="350"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9de30039-df94-40aa-a253-be7a789d2de0" alt="img not found" width="350"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="350"/> 
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/c29f5c2a-494e-4270-988c-a254c4a4c805" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9f0fdaab-ef16-4dee-811a-1d10ab4441f5" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9de30039-df94-40aa-a253-be7a789d2de0" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="500"/> 
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/c29f5c2a-494e-4270-988c-a254c4a4c805" alt="img not found" width="500"/>
   
   
 </p>
@@ -77,7 +77,7 @@
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="250"/>
   
    <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/fb56d403-b722-47d1-8ff5-38b537899931" alt="img not found" width="250"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="500"/>
 </p>
 <h3 align="left"> E-commerce Healthy Food:</h3>
 
