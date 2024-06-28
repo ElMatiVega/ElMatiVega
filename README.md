@@ -74,6 +74,10 @@
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/053c0f1a-ec9e-493d-b3bf-c27865d9998c" alt="img not found" width="500"/>
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9367e6b0-5db0-4512-a526-3ca57b2e36d4" alt="img not found" width="500"/>
 </p>
+<p align= "center">
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8c3a2d59-14f1-4da9-b51e-56cb078dacc9" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8995d1d0-d6db-4bc0-8162-0d16870b504d" alt="img not found" width="500"/>
+</p>
 <h3 align="left"> E-commerce Healthy Food:</h3>
 
 <p align= "center">
