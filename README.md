@@ -71,7 +71,7 @@
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/c29f5c2a-494e-4270-988c-a254c4a4c805" alt="img not found" width="500"/>
 </p>
 <p align= "center">
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/d4a5c4d3-9ad2-4eda-96a4-15fba17d12bc" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/d4a5c4d3-9ad2-4eda-96a4-15fba17d12bc" alt="img not found" width="500" height="500"/>
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="250"/>
   
    <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/fb56d403-b722-47d1-8ff5-38b537899931" alt="img not found" width="250"/>
