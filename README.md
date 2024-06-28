@@ -79,7 +79,7 @@
 <p align= "center">
   <img src="https://user-images.githubusercontent.com/96584643/212522574-ba2f8cb5-f484-428c-b209-cd448a5abab9.png" alt="img not found" width="500"/>
 </p>
-<h3 align="left"> <a href="https://lista-de-tares.netlify.app" target="_blank">Lista de tareas</a></h3>
+ <a href="https://lista-de-tares.netlify.app" target="_blank"><h3 align="left">Lista de tareas</h3></a>
 <p align= "center">
   <img src="https://user-images.githubusercontent.com/96584643/212522596-a2273c11-ff58-4311-a6c3-635b2e4835e8.png" alt="img not found" width="500"/>
 </p>
