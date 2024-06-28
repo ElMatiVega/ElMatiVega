@@ -62,7 +62,7 @@
 
 <h2 align="left">📌Mis Proyectos:</h2>
 
-<h3 align="left"> Urban Mobility:</h3>
+<h3 align="left" > Urban Mobility:</h3>
 
 <p align= "center">
   <img src="https://user-images.githubusercontent.com/102552376/203137693-e4a03856-6bf6-4191-a277-e666aedb3c24.jpg" alt="img not found" width="350"/>
