@@ -62,7 +62,7 @@
 
 <h2 align="left">📌Mis Proyectos:</h2>
 
-<h3 align="left"  style="color:#F26430 !important;" > Urban Mobility:</h3>
+<h3 align="left"><span style="color: #F26430;">Urban Mobility:</span></h3>
 
 <p align= "center">
   <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9f0fdaab-ef16-4dee-811a-1d10ab4441f5" alt="img not found" width="350"/>
