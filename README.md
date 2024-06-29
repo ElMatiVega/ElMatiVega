@@ -62,21 +62,21 @@
 
 <h2 align="left">📌Mis Proyectos:</h2>
 
-<h3 align="left" > Urban Mobility:</h3>
+<h3 align="left"  style="color: #F26430;" > Urban Mobility:</h3>
 
 <p align= "center">
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9f0fdaab-ef16-4dee-811a-1d10ab4441f5" alt="img not found" width="500"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9de30039-df94-40aa-a253-be7a789d2de0" alt="img not found" width="500"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="500"/> 
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/c29f5c2a-494e-4270-988c-a254c4a4c805" alt="img not found" width="500"/>  
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9f0fdaab-ef16-4dee-811a-1d10ab4441f5" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9de30039-df94-40aa-a253-be7a789d2de0" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/2eb746bd-373e-4b65-a858-0f4854b00e8c" alt="img not found" width="350"/> 
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/c29f5c2a-494e-4270-988c-a254c4a4c805" alt="img not found" width="350"/>  
 </p>
 <p align= "center">
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/053c0f1a-ec9e-493d-b3bf-c27865d9998c" alt="img not found" width="500"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9367e6b0-5db0-4512-a526-3ca57b2e36d4" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/053c0f1a-ec9e-493d-b3bf-c27865d9998c" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/9367e6b0-5db0-4512-a526-3ca57b2e36d4" alt="img not found" width="350"/>
 </p>
 <p align= "center">
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8c3a2d59-14f1-4da9-b51e-56cb078dacc9" alt="img not found" width="500"/>
-  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8995d1d0-d6db-4bc0-8162-0d16870b504d" alt="img not found" width="500"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8c3a2d59-14f1-4da9-b51e-56cb078dacc9" alt="img not found" width="350"/>
+  <img src="https://github.com/ElMatiVega/ElMatiVega/assets/96584643/8995d1d0-d6db-4bc0-8162-0d16870b504d" alt="img not found" width="350"/>
 </p>
 <h3 align="left"> E-commerce Healthy Food:</h3>
 
